@@ -1,6 +1,8 @@
 <h1 align="center">Developer Ivan Arsenev [EtB]</h1>
 <h3 align="center">I am a web developer based in Tomsk creating stunning and effective visuals for companies around the world. Let's start scrolling and find out more about me.</h3>
 
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/HappyBewitchedFlyingsquirrel-size_restricted.gif"><>
+
 - 🔭 I’m currently working on **[Secret]**
 
 - 📫 How to reach me **arsenev.ivan00@bk.ru**
