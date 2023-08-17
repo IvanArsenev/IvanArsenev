@@ -1,7 +1,6 @@
 <h1 align="center">Developer Ivan Arsenev [EtB]</h1>
 <h3 align="center">I am a web developer based in Tomsk creating stunning and effective visuals for companies around the world. Let's start scrolling and find out more about me.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanarsenev" alt="ivanarsenev" /></a> </p>
 
 - 🔭 I’m currently working on **[Secret]**
 
