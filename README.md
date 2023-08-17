@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/IvanArsenev**
 
-- 📄 Know about my experiences: [Resume](google.com)
+- 📄 Know about my experiences: [Resume]((https://hh.ru/applicant/resumes/view?resume=2b940725ff0c4934950039ed1f58374e346f6d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
